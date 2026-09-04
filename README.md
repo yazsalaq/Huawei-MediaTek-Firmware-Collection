@@ -37,6 +37,20 @@
 | `0x6737` | mt6737 | `0x6768` | mt6768 |
 | `0x6739` | mt6739 | `0x6771` | mt6771 |
 
+## 🌐 تواصل معي
+
+| 🐙 **GitHub** | 📸 **Instagram** | 💬 **Telegram** |
+| :---: | :---: | :---: |
+| [**yazsalaq**](https://github.com/yazsalaq) | [**@yaz.salaqq**](https://instagram.com/yaz.salaqq) | [**@YAZ.salaq**](https://t.me/YAZ.salaq) |
+
+---
+
+## 🛡️ شارات التواصل (خيار إضافي للـ README)
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yazsalaq)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yaz.salaqq)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YAZ.salaq)
 > **ملاحظة:** جميع المعالجات المذكورة في ملف التكوين `config.json` مدعومة.
 
 ---
@@ -53,10 +67,13 @@
 🔴	قد يؤدي الاستخدام الخاطئ إلى تلف دائم (Hard Brick)
 🟢	تأكد من شحن البطارية بنسبة لا تقل عن 50%
 📞 التواصل والدعم
-المنصة	الحساب	الرابط المباشر
-🐙 GitHub	@yazsalaq	github.com/yazsalaq
-📸 Instagram	@yaz.salaqq	instagram.com/yaz.salaqq
-💬 Telegram	@YAZ.salaq	t.me/YAZ.salaq
+## 🌐 تابعني على منصات التواصل
+
+| المنصة | الحساب |
+|:------:|:-------|
+| <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> | [**yazsalaq**](https://github.com/yazsalaq) |
+| <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> | [**@yaz.salaqq**](https://instagram.com/yaz.salaqq) |
+| <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> | [**@YAZ.salaq**](https://t.me/YAZ.salaq) |
 هذا المشروع مرخص تحت رخصة MIT License - يمكنك استخدامه وتعديله وتوزيعه بحرية مع الإشارة إلى المصدر.
 MIT License
 
